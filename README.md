@@ -1,9 +1,9 @@
-About me:
+About me: My name is Shah Mustaqim and I am a student in Uni South Wales.
 
-What I am doing:
+What I am doing: I am currently doing my Bachelors Degree in Computer Science
 
-Skillset:
+Skillset: Doing overtime.
 
-Recent projects completed:
+Recent projects completed: Scientific Graphing Calculator
 
-Hobbies:
+Hobbies: Playing video games, playing music instruments like ukulele and drums
