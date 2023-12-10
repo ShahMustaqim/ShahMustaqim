@@ -6,4 +6,4 @@ Skillset: Doing overtime.
 
 Recent projects completed: Scientific Graphing Calculator
 
-Hobbies: Playing video games, playing music instruments like ukulele and drums
+Hobbies: Playing video games, playing music instruments like ukulele and drums 
