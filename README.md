@@ -1,6 +1,6 @@
 <img src="https://us-tuna-sounds-images.voicemod.net/2993e251-f7d3-4a2f-8d5f-23ca515ae9d8-1679615411944.jpg" width="300">
 <h1 align="center">Hi 👋, I'm Shah</h1>
-<h3 align="center">A Star Wars nerd and a passionate developer</h3>
+<h3 align="center">A passionate developer and a Star Wars nerd</h3>
 
 - About me: **My name is Shah Mustaqim and I am a student in University South Wales. I am currently doing my Bachelors Degree in Computer Science. My skillsets includes doing overtime, working in time, great in playing the ukulele and drums. My recent project completed involves me in doing a scientific graphing calculator. I love playing video games, sports and playing musical instruments.**
 
